@@ -1,0 +1,13 @@
+# Database Configuration
+DB_HOST=localhost
+DB_USER=root
+DB_PASSWORD=root@MySQL4admin
+DB_NAME=cv
+
+# Admin Configuration
+ADMIN_USERNAME=admin
+ADMIN_PASSWORD=admin@resume-analyzer
+
+# Application Configuration
+UPLOAD_FOLDER=./Uploaded_Resumes/
+MAX_FILE_SIZE=10485760 
