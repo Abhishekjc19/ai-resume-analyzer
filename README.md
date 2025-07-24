@@ -240,7 +240,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Email**: [your-email@example.com]
+- **Email**: [abhishekjc679@gmail.com.com]
 - **Issues**: [GitHub Issues](https://github.com/yourusername/smart-resume-analyzer/issues)
 - **Documentation**: [Wiki](https://github.com/yourusername/smart-resume-analyzer/wiki)
 
